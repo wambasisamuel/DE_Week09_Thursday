@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+praw
+pyspark
+matplotlib
+seaborn
+python-dotenv
